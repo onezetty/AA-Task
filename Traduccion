@@ -57,6 +57,7 @@ Repeat every year
 Repetir cada año
 
 Leap month
+Mes bisiesto
 
 
 The day
@@ -75,6 +76,7 @@ El aniversario ha sido agregado.
 
 
 Only the repeat of leap month cycle
+Repetir el ciclo solamente en año bisiesto
 
 
 Edit anniversary
@@ -122,13 +124,15 @@ Agregar contenido a la nota
 ////////
 
 Priority:
-Prioridad
+Prioridad:
 
 
 Set detail grade:
+Establecer grado del detalle:
 
 
 Deadline:
+Fecha limite:
 
 
 Sequence
@@ -148,7 +152,7 @@ Apagar
 
 
 Add detail grade
-Agregar grado de detalle
+Agregar prioridad
 
 
 Add Objective
@@ -180,82 +184,106 @@ abajo
 
 
 Edit detail grade
+Editar prioridad 
 
 
 Input objective contents
+Ingresar contenido 
 
 
 ///////// up finish
 ///////// 
 
 Add schedule
-Agregar 
+Agregar programacion
 
 
 None
+Ninguna
 
 
 Week has not been set.
+Semana no se ha establecido
 
 
 Schedule has been added.
+Programacion se ha agregado
 
 
 Edit Schedule
+Editar programacion
 
 
 Next day
+Dia siguiente
 
 
 Category:
+Categoria:
 
 
 Repeat:
+Repetir: 
 
 
 Start:
+Inicia:
 
 
 End:
+Termina: 
 
 
 Week:
+Semana: 
 
 
 Time:
+Hora: 
 
 
 No period
+No periodica
 
 
 Mon
+Lun
 
 
 Tue
+Mar
 
 
 Wed
+Mie
 
 
 Thu
+Jue
 
 
 Fri
+Vie
 
 
 Sat
+Sab
 
 
 Sun
+Dom
 
 
 All
+Todos
 
 
 Add Category..
+Agregar categoria..
 
 
 Delete Category..
+Borrar categoria..
 
 
 Category has been added.
